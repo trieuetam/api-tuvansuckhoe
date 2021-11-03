@@ -1,7 +1,9 @@
 {
     "tatca": [
     {
-        "ho": "Bạn bị ho?",
+        "ho": "Bạn có bị ho?",
+        "tiêu chảy": "Bạn có bị tiêu chảy?",
+        "khó thở": "Bạn có bị khó thở hay không?",
         "Hello": "Hi",
         "hello": "Hi",
         "how are you?": "I'm fine thank you and you :))",
