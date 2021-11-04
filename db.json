@@ -1,12 +1,9 @@
 {
     "tatca": [
     {
-        "ho": "Bạn có bị ho?",
-        "có ho": "Bạn có bị khó thở hay không",
-        "khó thở": "Bạn có bị khó thở hay không?",
-        "có khó thở": "Bạn có bị tiêu chảy hay không?",
-        "tiêu chảy": "Bạn có bị tiêu chảy?",
-        "có tiêu chảy": "Bạn có bị tiêu chảy?",
+        "ho": "Bạn có các triệu chứng của COVID-19?",
+        "khó thở": "Bạn có các triệu chứng của COVID-19?",
+        "tiêu chảy": "Bạn có các triệu chứng của COVID-19?",
         "Hello": "Hi",
         "hello": "Hi",
         "how are you?": "I'm fine thank you and you :))",
