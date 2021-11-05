@@ -1,10 +1,19 @@
 {
     "tatca": [
     {
-        "ho": "Bạn có các triệu chứng của COVID-19?",
-        "khó thở": "Bạn có các triệu chứng của COVID-19?",
-        "tiêu chảy": "Bạn có các triệu chứng của COVID-19?",
-        "sốt": "Bạn có các triệu chứng của COVID-19?",
+        "sốt": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "ho": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "mệt mỏi": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "mất vị giác hoặc khứu giác": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "đau họng": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "đau đầu": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "đau nhức": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "tiêu chảy": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "da nổi mẩn hay ngón tay hoặc ngón chân bị tấy đỏ hoặc tím tái": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "mắt đỏ hoặc ngứa": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "khó thở": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "mất khả năng nói hay cử động hoặc thấy lú lẫn": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "đau ngực": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
         "Hello": "Hi",
         "hello": "Hi",
         "how are you?": "I'm fine thank you and you :))",
@@ -144,6 +153,13 @@
         "Tiêm vaccin COVID-19" : "Tim địa điểm tiêm vắc-xin ngừa COVID-19: Tìm kiếm trên trang vaccines.gov, nhắn tin mã zip của quý vị tới số 438829, hoặc gọi tới số 1-800-232-0233 để tìm các địa điểm gần quý vị",
         "Vaccin COVID-19" : "Tim địa điểm tiêm vắc-xin ngừa COVID-19: Tìm kiếm trên trang vaccines.gov, nhắn tin mã zip của quý vị tới số 438829, hoặc gọi tới số 1-800-232-0233 để tìm các địa điểm gần quý vị",
         "vaccin COVID-19" : "Tim địa điểm tiêm vắc-xin ngừa COVID-19: Tìm kiếm trên trang vaccines.gov, nhắn tin mã zip của quý vị tới số 438829, hoặc gọi tới số 1-800-232-0233 để tìm các địa điểm gần quý vị",
+        "mệt": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "giác": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "họng": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "đầu": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "nhức": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "chảy": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "tái": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
 
         "đối tượng tiêm vaccin COVID-19" : "Người cao tuổi và trong nhóm 50-64 tuổi có sẵn bệnh lý<br>Những người từ 65 tuổi trở lên và người lớn từ 50-64 tuổi có các bệnh nền cần được tiêm mũi vắc-xin nhắc lại Pfizer-BioNTech. Nguy cơ mắc bệnh nghiêm trọng do COVID-19 tăng theo tuổi và nguy cơ này cũng có thể tăng cao đối với người lớn ở mọi lứa tuổi mà có bệnh nền.<br>Người từ 18 tuổi trở lên sống trong các cơ sở chăm sóc dài hạn<br>Người từ 18 tuổi trở lên ở tại các cơ sở chăm sóc dài hạn cần được tiêm mũi tiêm vắc-xin nhắc lại Pfizer-BioNTech. Do người sống trong cơ sở chăm sóc dài hạnexternal icon sống gần gũi với nhau trong môi trường nhóm và thường là người cao tuổi có bệnh nền, họ có nguy cơ bị lây nhiễm và mắc bệnh nghiêm trọng do COVID-19 cao hơn.<br>Những người đang có một số bệnh trong độ tuổi 18-49<br>Những người từ 18-49 tuổi có các bệnh nền có thể được tiêm mũi vắc-xin nhắc lại Pfizer-BioNTech dựa trên nguy cơ và lợi ích của từng cá nhân. Người lớn từ 18-49 tuổi mà có các bệnh nền đang có nguy cơ cao bị mắc bệnh nghiêm trọng do COVID-19. Tuy nhiên, có khả năng nguy cơ đó không cao như đối với người lớn từ 50 tuổi trở lên mà có các bệnh nền. Những người từ 18-49 tuổi có các bệnh nền có thể được tiêm nhắc lại sau khi cân nhắc các nguy cơ và lợi ích của từng cá nhân. Khuyến cáo này có thể thay đổi trong tương lai khi có nhiều dữ liệu hơn.<br>Nhân viên và cư dân thuộc nhóm có nguy cơ cao bị phơi nhiễm và lây truyền COVID-19<br>Những người từ 18-64 tuổi có nguy cơ cao bị phơi nhiễm và lây truyền COVID-19 do môi trường nghề nghiệp hoặc cơ quan có thể được tiêm mũi vắc-xin nhắc lại Pfizer-BioNTech dựa trên nguy cơ và lợi ích của từng cá nhân. Người lớn từ 18-64 tuổi làm việc hoặc cư trú trong các cơ sở nhất định (ví dụ như cơ sở chăm sóc y tế, trường học, cơ sở cải huấn, nơi trú ẩn cho người vô gia cư,... có thể có nguy cơ cao bị phơi nhiễm COVID-19, có thể gây lây nhiễm ở nơi họ làm việc hoặc cư trú. Do nguy cơ có thể thay đổi tại các nơi khác nhau và dựa trên mức độ lây lan COVID-19 trong một cộng đồng, những người từ 18-64 tuổi có nguy cơ cao bị phơi nhiễm và lây truyền COVID-19 do môi trường nghề nghiệp hoặc cơ quan thì có thể được tiêm mũi nhắc lại sau khi cân nhắc các nguy cơ và lợi ích của từng cá nhân. Khuyến cáo này có thể thay đổi trong tương lai khi có nhiều dữ liệu hơn.",
 
@@ -203,6 +219,14 @@
 
         "Vắc xin Pfizer" : "Vắc xin Comirnaty của Pfizer/BioNTech đã được cấp phép sử dụng tại 111 quốc gia và vùng lãnh thổ và được Tổ chức Y tế thế giới đưa vào danh sách sử dụng khẩn cấp. Vắc xin này đã được Bộ Y tế phê duyệt có điều kiện cho nhu cầu cấp bách trong phòng, chống dịch COVID-19 vào ngày 16/6/2021. Vắc xin được sản xuất theo công nghệ mRNA, sử dụng tiêm 2 liều cách nhau 3-4 tuần. Đến ngày 23/8/2021, Cục Quản lý thuốc và thực phẩm Hoa Kỳ (FDA) chính thức đưa ra chấp thuận hoàn toàn đối với vaccine Pfizer-BioNTech trong phòng ngừa COVID-19 ở những người từ 16 tuổi trở lên.",
         "vắc xin Pfizer" : "Vắc xin Comirnaty của Pfizer/BioNTech đã được cấp phép sử dụng tại 111 quốc gia và vùng lãnh thổ và được Tổ chức Y tế thế giới đưa vào danh sách sử dụng khẩn cấp. Vắc xin này đã được Bộ Y tế phê duyệt có điều kiện cho nhu cầu cấp bách trong phòng, chống dịch COVID-19 vào ngày 16/6/2021. Vắc xin được sản xuất theo công nghệ mRNA, sử dụng tiêm 2 liều cách nhau 3-4 tuần. Đến ngày 23/8/2021, Cục Quản lý thuốc và thực phẩm Hoa Kỳ (FDA) chính thức đưa ra chấp thuận hoàn toàn đối với vaccine Pfizer-BioNTech trong phòng ngừa COVID-19 ở những người từ 16 tuổi trở lên.",
+        
+        "da": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "ngứa": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "mắt": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "khó": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "thở": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "mất": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
+        "ngực": "Bạn có các triệu chứng của COVID-19?<br>Xin mời tham gia khảo sát dưới này",
 
         "Vắc xin pfizer" : "Vắc xin Comirnaty của Pfizer/BioNTech đã được cấp phép sử dụng tại 111 quốc gia và vùng lãnh thổ và được Tổ chức Y tế thế giới đưa vào danh sách sử dụng khẩn cấp. Vắc xin này đã được Bộ Y tế phê duyệt có điều kiện cho nhu cầu cấp bách trong phòng, chống dịch COVID-19 vào ngày 16/6/2021. Vắc xin được sản xuất theo công nghệ mRNA, sử dụng tiêm 2 liều cách nhau 3-4 tuần. Đến ngày 23/8/2021, Cục Quản lý thuốc và thực phẩm Hoa Kỳ (FDA) chính thức đưa ra chấp thuận hoàn toàn đối với vaccine Pfizer-BioNTech trong phòng ngừa COVID-19 ở những người từ 16 tuổi trở lên.",
         "vắc xin pfizer" : "Vắc xin Comirnaty của Pfizer/BioNTech đã được cấp phép sử dụng tại 111 quốc gia và vùng lãnh thổ và được Tổ chức Y tế thế giới đưa vào danh sách sử dụng khẩn cấp. Vắc xin này đã được Bộ Y tế phê duyệt có điều kiện cho nhu cầu cấp bách trong phòng, chống dịch COVID-19 vào ngày 16/6/2021. Vắc xin được sản xuất theo công nghệ mRNA, sử dụng tiêm 2 liều cách nhau 3-4 tuần. Đến ngày 23/8/2021, Cục Quản lý thuốc và thực phẩm Hoa Kỳ (FDA) chính thức đưa ra chấp thuận hoàn toàn đối với vaccine Pfizer-BioNTech trong phòng ngừa COVID-19 ở những người từ 16 tuổi trở lên.",
